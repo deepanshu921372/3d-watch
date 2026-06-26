@@ -44,3 +44,6 @@ next-env.d.ts
 
 # the raw frame source folder (frames live in public/images/sequence)
 /ezgif-83562e0cd3b45c42-jpg
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

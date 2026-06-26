@@ -4,7 +4,7 @@ A luxury watch scrollytelling experience. Scroll to disassemble and reassemble t
 
 ## Live Demo
 
-**[https://meridian3d.netlify.app/](https://meridian3d.netlify.app/)** — view it in the browser.
+**[https://meridian3d.netlify.app](https://meridian3d.netlify.app)** — view it in the browser.
 
 ## Getting Started
 
